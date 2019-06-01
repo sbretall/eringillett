@@ -45,7 +45,7 @@ body {
     right: 1em;
 }
 
-#GalleryPreview {
+.GalleryPreview {
     height: 80vh;
     background-attachment: fixed;
     background-position: center;
@@ -53,6 +53,31 @@ body {
     background-size: cover;
     width: 100%;
     transition: background .5s ease-in-out;
+}
+
+#gallery1 {
+    background-image: url("./images/index/1.jpg");
+    display: none;
+}
+#gallery2 {
+    background-image: url("./images/index/2.jpg");
+    display: none;
+}
+#gallery3 {
+    background-image: url("./images/index/3.jpg");
+    display: none;
+}
+#gallery4 {
+    background-image: url("./images/index/4.jpg");
+    display: none;
+}
+#gallery5 {
+    background-image: url("./images/index/5.jpg");
+    display: none;
+}
+#gallery6 {
+    background-image: url("./images/index/6.jpg");
+    display: none;
 }
 
 list {
@@ -149,7 +174,7 @@ gallery {
 }
 
 #Kensington {
-    background-image: url("./images/Kensington/CMP2875.jpg");
+    background-image: url("./images/Kensington/_CMP2875.jpg");
 }
 
 #Mediterranean {
