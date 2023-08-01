@@ -169,6 +169,10 @@ gallery {
     color: black;
 }
 
+#FairOaks {
+    background-image: url("./images/Fair Oaks/FairOaksBath1.jpeg");
+}
+
 #AduBerkeley {
     background-image: url("./images/ADUBerkeley/1.JPG");
 }
