@@ -169,6 +169,18 @@ gallery {
     color: black;
 }
 
+#NoeValley {
+    background-image: url("./images/NoeValley/FairOaksBath1.jpeg");
+}
+
+#BlackPineSchool {
+    background-image: url("./images/BlackPineSchool/BlackPine004.jpg"); 
+}
+
+#Sausalito {
+    background-image: url("images/Sausalito/CurreyLaneBath1.jpeg"); 
+}
+
 #AduBerkeley {
     background-image: url("./images/ADUBerkeley/1.JPG");
 }
