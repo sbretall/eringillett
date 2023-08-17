@@ -79,6 +79,18 @@ body {
     background-image: url("./images/index/6.jpg");
     display: none;
 }
+#gallery7 {
+    background-image: url("./images/FairOaksBath3.jpeg");
+    display: none;
+}
+#gallery8 {
+    background-image: url("./images/CurreyLaneBath1.jpeg");
+    display: none;
+}
+#gallery9 {
+    background-image: url("./images/CurreyLaneKitchen1.jpeg");
+    display: none;
+}
 
 list {
     text-align: center;
